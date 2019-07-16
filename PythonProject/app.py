@@ -47,6 +47,6 @@ class TwitterBot:
 """
 
 
-obj = TwitterBot('tagbudies@gmail.com','mayankirar@123')
+obj = TwitterBot('xyz@gmail.com','password')
 obj.login()
 obj.like_t("gurupurnima")
